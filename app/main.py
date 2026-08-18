@@ -5,7 +5,6 @@ import uuid
 
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.middleware.trustedhost import TrustedHostMiddleware
 from fastapi.responses import JSONResponse
 
 from api.routes_triage import router
@@ -21,9 +20,6 @@ app = FastAPI(
     docs_url='/docs' if settings.environment != 'production' else None,
     redoc_url='/redoc' if settings.environment != 'production' else None,
 )
-
-if settings.allowed_hosts:
-    app.add_middleware(TrustedHostMiddleware, allowed_hosts=settings.allowed_hosts)
 
 if settings.cors_origins:
     app.add_middleware(
