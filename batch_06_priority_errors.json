@@ -1,0 +1,1754 @@
+[
+  {
+    "case_id": "B06-015",
+    "domain": "Hépatologie",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Hépatologie",
+      "Gastro-entérologie",
+      "Médecine interne"
+    ],
+    "actual_specialty": "Gastro-entérologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Gastro-entérologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "hépatite aiguë virale ou médicamenteuse",
+      "cholestase aiguë bénigne (ex. lithiase biliaire transitoire)"
+    ],
+    "contradictions": [
+      "Aucun signe de détresse respiratoire, de saignement, de perte de connaissance ou autre critère d'urgence n'est rapporté."
+    ],
+    "elapsed_seconds": 6.428,
+    "error": ""
+  },
+  {
+    "case_id": "B06-018",
+    "domain": "Néphrologie",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Néphrologie"
+    ],
+    "actual_specialty": "Néphrologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Anomalie biologique nécessitant bilan programmé.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Protéinurie intermittente ou orthostatique",
+      "Néphropathie glomérulaire (ex. glomérulonéphrite)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 6.388,
+    "error": ""
+  },
+  {
+    "case_id": "B06-021",
+    "domain": "Urologie",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Urologie"
+    ],
+    "actual_specialty": "Urologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Symptômes urinaires chroniques stables.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "Hypertrophie bénigne de la prostate (obstruction infravésicale)",
+      "Sténose urétrale ou obstacle prostatique"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 7.004,
+    "error": ""
+  },
+  {
+    "case_id": "B06-048",
+    "domain": "Obstétrique",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "actual_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Gynécologie-obstétrique",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin fréquent, sans signe d'alerte.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "Reflux gastro-œsophagien gravidique (pyrosis)",
+      "Dyspepsie liée à la grossesse"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.71,
+    "error": ""
+  },
+  {
+    "case_id": "B06-060",
+    "domain": "Psychiatrie",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Psychiatrie"
+    ],
+    "actual_specialty": "Psychiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Trouble anxieux persistant sans danger immédiat.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "Trouble anxieux généralisé",
+      "Insomnie d’origine anxieuse"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.8,
+    "error": ""
+  },
+  {
+    "case_id": "B06-063",
+    "domain": "Addictologie",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Psychiatrie",
+      "Addictologie"
+    ],
+    "actual_specialty": "Addictologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Addictologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "sevrage léger lié à substance psychoactive (alcool ou benzodiazépines possible)",
+      "anxiété liée au sevrage"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.218,
+    "error": ""
+  },
+  {
+    "case_id": "B06-065",
+    "domain": "Hématologie",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Hématologie"
+    ],
+    "actual_specialty": "Hématologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "anémie (carentielle ou chronique)",
+      "insuffisance thyroïdienne ou autre trouble endocrinien"
+    ],
+    "contradictions": [
+      "Aucun signe de gravité aigu décrit (pas de détresse respiratoire, douleur thoracique, perte de connaissance, saignement majeur, saignement digestif, fièvre importante ou signes infectieux)."
+    ],
+    "elapsed_seconds": 5.712,
+    "error": ""
+  },
+  {
+    "case_id": "B06-075",
+    "domain": "Médecine tropicale",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecine tropicale"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": false,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Fièvre d’origine infectieuse tropicale (ex: paludisme, fièvre typhoïde, arbovirose)",
+      "Infection bactérienne ou virale intercurrente"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 6.263,
+    "error": ""
+  },
+  {
+    "case_id": "B06-084",
+    "domain": "Allergologie",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P4",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": -1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Allergologie"
+    ],
+    "actual_specialty": "Allergologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Conseil / autosurveillance ; recours à Allergologie si persistance, récidive ou aggravation",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Rhinite allergique stable.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "rhinite allergique liée à l’exposition à la poussière",
+      "rhinite irritative non allergique (vasomotrice)"
+    ],
+    "contradictions": [
+      "aucun signe de gravité rapporté",
+      "pas de symptômes respiratoires sévères décrits"
+    ],
+    "elapsed_seconds": 4.528,
+    "error": ""
+  },
+  {
+    "case_id": "B06-088",
+    "domain": "Médecine d’urgence",
+    "expected_priority": "P1",
+    "acceptable_priorities": [
+      "P1"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": -1,
+    "dangerous_undertriage": true,
+    "accepted_specialties": [
+      "Médecine d’urgence"
+    ],
+    "actual_specialty": "Médecine d’urgence",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Tableau aigu à potentiel critique.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "syndrome infectieux aigu (grippe, sepsis débutant)",
+      "hypoglycémie ou trouble métabolique aigu"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.229,
+    "error": ""
+  },
+  {
+    "case_id": "B06-101",
+    "domain": "Chirurgie vasculaire",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Chirurgie vasculaire"
+    ],
+    "actual_specialty": "Chirurgie vasculaire",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Tableau aigu nécessitant évaluation prioritaire.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [
+      "Aucune détresse respiratoire, fièvre, saignement majeur ou autre signe systémique rapporté",
+      "Absence d’examens ou de signes cliniques descriptifs (pouls, couleur, température, sensibilité) dans la description fournie"
+    ],
+    "elapsed_seconds": 6.272,
+    "error": ""
+  },
+  {
+    "case_id": "B06-104",
+    "domain": "Neurochirurgie",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Neurochirurgie"
+    ],
+    "actual_specialty": "Neurochirurgie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Tableau aigu nécessitant évaluation prioritaire.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.002,
+    "error": ""
+  },
+  {
+    "case_id": "B06-105",
+    "domain": "Neurochirurgie",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 2,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Neurochirurgie"
+    ],
+    "actual_specialty": "Neurochirurgie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Problème stable nécessitant suivi programmé.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.002,
+    "error": ""
+  },
+  {
+    "case_id": "B06-106",
+    "domain": "Chirurgie thoracique",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2",
+      "P3"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Chirurgie thoracique"
+    ],
+    "actual_specialty": "Chirurgie thoracique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme significatif sans danger immédiat clairement décrit.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 5.65,
+    "error": ""
+  },
+  {
+    "case_id": "B06-111",
+    "domain": "Chirurgie digestive",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Chirurgie digestive"
+    ],
+    "actual_specialty": "Chirurgie générale",
+    "specialty_acceptable": false,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Chirurgie générale",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "colique abdominale bénigne (spasme intestinal)",
+      "pathologie biliaire inflammatoire débutante (colique biliaire)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.249,
+    "error": ""
+  },
+  {
+    "case_id": "B06-114",
+    "domain": "Chirurgie pédiatrique",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Chirurgie pédiatrique",
+      "Pédiatrie"
+    ],
+    "actual_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Pédiatrie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "colique abdominale fonctionnelle ou douleur digestive aiguë bénigne",
+      "constipation aiguë"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.738,
+    "error": ""
+  },
+  {
+    "case_id": "B06-144",
+    "domain": "Hypertension artérielle",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine interne",
+      "Médecin généraliste"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Cardiologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "hypertension artérielle (épisode aigu transitoire)",
+      "hypertension situationnelle (p. ex. stress, douleur)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.025,
+    "error": ""
+  },
+  {
+    "case_id": "B06-146",
+    "domain": "Troubles du rythme",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "extrasystoles bénignes (épisodes de palpitation)",
+      "troubles du rythme supraventriculaire (paroxystique)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.521,
+    "error": ""
+  },
+  {
+    "case_id": "B06-147",
+    "domain": "Troubles du rythme",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Cardiologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "extrasystoles bénignes (palpitations paroxystiques)",
+      "trouble du rythme supraventriculaire paroxystique"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.17,
+    "error": ""
+  },
+  {
+    "case_id": "B06-148",
+    "domain": "Insuffisance cardiaque",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2",
+      "P3"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine interne"
+    ],
+    "actual_specialty": "Médecine d’urgence",
+    "specialty_acceptable": false,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme significatif sans danger immédiat clairement décrit.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 5.52,
+    "error": ""
+  },
+  {
+    "case_id": "B06-149",
+    "domain": "Insuffisance cardiaque",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine interne"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "insuffisance cardiaque chronique",
+      "insuffisance veineuse chronique avec œdème périphérique"
+    ],
+    "contradictions": [
+      "patient signale absence de signes d'alarme; pas d'autres données cliniques ou paracliniques fournies"
+    ],
+    "elapsed_seconds": 5.322,
+    "error": ""
+  },
+  {
+    "case_id": "B06-150",
+    "domain": "Insuffisance cardiaque",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 2,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine interne"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "insuffisance cardiaque aiguë ou décompensation cardiaque légère",
+      "œdème d'origine rénale ou hépatique (rétention hydrosodée)"
+    ],
+    "contradictions": [
+      "Aucun signe de gravité immédiate décrit par le patient (p.ex. pas de détresse respiratoire, pas de perte de connaissance)."
+    ],
+    "elapsed_seconds": 6.165,
+    "error": ""
+  },
+  {
+    "case_id": "B06-151",
+    "domain": "Maladie coronarienne",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2",
+      "P3"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme significatif sans danger immédiat clairement décrit.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.002,
+    "error": ""
+  },
+  {
+    "case_id": "B06-152",
+    "domain": "Maladie coronarienne",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 2,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.001,
+    "error": ""
+  },
+  {
+    "case_id": "B06-153",
+    "domain": "Maladie coronarienne",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 3,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Cardiologie"
+    ],
+    "actual_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.002,
+    "error": ""
+  },
+  {
+    "case_id": "B06-158",
+    "domain": "Épileptologie",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Neurologie"
+    ],
+    "actual_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Première crise nécessitant évaluation rapide.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.002,
+    "error": ""
+  },
+  {
+    "case_id": "B06-167",
+    "domain": "Pneumologie infectieuse",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Infectiologie"
+    ],
+    "actual_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Bronchite subaiguë ou chronique (infectieuse ou irritative)",
+      "Tuberculose pulmonaire (à considérer en contexte africain si persistance)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.942,
+    "error": ""
+  },
+  {
+    "case_id": "B06-170",
+    "domain": "Asthme",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pneumologie"
+    ],
+    "actual_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "asthme bronchique (réactif)",
+      "bronchite chronique ou bronchite aiguë persistante"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.326,
+    "error": ""
+  },
+  {
+    "case_id": "B06-171",
+    "domain": "Asthme",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pneumologie"
+    ],
+    "actual_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Pneumologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Bronchite aiguë ou bronchite virale",
+      "Bronchospasme d’origine allergique ou asthme réactif"
+    ],
+    "contradictions": [
+      "Aucun signe de gravité rapporté dans le récit fourni."
+    ],
+    "elapsed_seconds": 5.468,
+    "error": ""
+  },
+  {
+    "case_id": "B06-173",
+    "domain": "BPCO",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pneumologie"
+    ],
+    "actual_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Bronchopneumopathie chronique exacerbée (exacerbation d'une maladie respiratoire chronique)",
+      "Bronchite chronique ou bronchectasie évolutive"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.319,
+    "error": ""
+  },
+  {
+    "case_id": "B06-174",
+    "domain": "BPCO",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pneumologie"
+    ],
+    "actual_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Pneumologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "exacerbation d’une maladie respiratoire chronique (asthme, BPCO)",
+      "bronchite aiguë sur terrain chronique"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.325,
+    "error": ""
+  },
+  {
+    "case_id": "B06-177",
+    "domain": "Tuberculose",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Infectiologie"
+    ],
+    "actual_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "bronchite aiguë subaiguë ou bronchite post-infectieuse",
+      "toux d’origine allergique ou rhinite chronique"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 9.116,
+    "error": ""
+  },
+  {
+    "case_id": "B06-192",
+    "domain": "Insuffisance rénale",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Néphrologie",
+      "Médecine interne"
+    ],
+    "actual_specialty": "Néphrologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Néphrologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "insuffisance rénale aiguë pré- rénale transitoire (déshydratation, médicament)",
+      "lésion rénale aiguë liée à néphrotoxines médicamenteuses"
+    ],
+    "contradictions": [
+      "aucun signe de gravité rapporté dans le message (pas d'oligurie, pas d'œdème, pas de détresse respiratoire, pas de perte de connaissance)"
+    ],
+    "elapsed_seconds": 5.937,
+    "error": ""
+  },
+  {
+    "case_id": "B06-193",
+    "domain": "Infections urinaires",
+    "expected_priority": "P2",
+    "acceptable_priorities": [
+      "P2",
+      "P3"
+    ],
+    "actual_priority": "P1",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Urologie",
+      "Médecin généraliste"
+    ],
+    "actual_specialty": "Chirurgie plastique et reconstructive",
+    "specialty_acceptable": false,
+    "expected_orientation": "Consultation médicale prioritaire",
+    "actual_orientation": "Urgences / hôpital le plus proche",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme significatif sans danger immédiat clairement décrit.",
+    "llm_used": false,
+    "mode": "fallback",
+    "severity_override": true,
+    "human_review": true,
+    "possible_conditions": [],
+    "contradictions": [],
+    "elapsed_seconds": 0.002,
+    "error": ""
+  },
+  {
+    "case_id": "B06-201",
+    "domain": "Infertilité",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique",
+      "Urologie"
+    ],
+    "actual_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Gynécologie-obstétrique",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "Trouble de la fertilité masculine passager (oligo/asthénospermie transitoire)",
+      "Dysfonction érectile ou trouble de l'éjaculation transitoire"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 7.577,
+    "error": ""
+  },
+  {
+    "case_id": "B06-204",
+    "domain": "Grossesse à risque",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "actual_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème stable nécessitant suivi programmé.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Signes d'alerte obstétricaux non spécifiés (par ex. menace d'accouchement prématuré, hypertension gravidique, hémorragie vaginale)",
+      "Complication obstétricale nécessitant bilan (infection génitale, retard de croissance/oligoamnios)"
+    ],
+    "contradictions": [
+      "Aucune donnée de fièvre, saignement, douleur ou autre signe aigu n'a été fournie ; gravité réelle inconnue"
+    ],
+    "elapsed_seconds": 6.268,
+    "error": ""
+  },
+  {
+    "case_id": "B06-216",
+    "domain": "Maladies éruptives",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Pédiatrie",
+      "Infectiologie",
+      "Dermatologie"
+    ],
+    "actual_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Exanthème viral post-infekieux (ex : exanthème viraux courants)",
+      "Réaction médicamenteuse retardée (même si non rapportée)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 6.759,
+    "error": ""
+  },
+  {
+    "case_id": "B06-222",
+    "domain": "Dengue",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecine tropicale"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "Infection virale bénigne (ex : syndrome grippal)",
+      "Infection bactérienne systémique à début lent (ex : brucellose, fièvre typhoïde)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 6.453,
+    "error": ""
+  },
+  {
+    "case_id": "B06-225",
+    "domain": "Fièvre jaune",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecine tropicale"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Hépatite virale aigue ou chronique",
+      "Cholestase ou hépatite médicamenteuse"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.075,
+    "error": ""
+  },
+  {
+    "case_id": "B06-228",
+    "domain": "Mpox",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Dermatologie"
+    ],
+    "actual_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "infection virale à exanthème (incluant possibilité de mpox étant donné l’alerte locale)",
+      "dermatose infectieuse bactérienne ou secondaire"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 6.465,
+    "error": ""
+  },
+  {
+    "case_id": "B06-231",
+    "domain": "Choléra",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Gastro-entérologie"
+    ],
+    "actual_specialty": "Médecin généraliste",
+    "specialty_acceptable": false,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Diarrhée légère sans déshydratation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "gastro-entérite aiguë (virale ou bactérienne)",
+      "gastro-entérite à Vibrio cholerae (à considérer en contexte d’alerte)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.486,
+    "error": ""
+  },
+  {
+    "case_id": "B06-234",
+    "domain": "Rougeole",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Pédiatrie"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "infection virale systémique (p.ex. rougeole ou autre exanthème viral)",
+      "infection respiratoire virale avec exanthème"
+    ],
+    "contradictions": [
+      "patient déclare absence de signes de gravité"
+    ],
+    "elapsed_seconds": 5.948,
+    "error": ""
+  },
+  {
+    "case_id": "B06-243",
+    "domain": "Trypanosomiase",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecine tropicale",
+      "Infectiologie"
+    ],
+    "actual_specialty": "Médecin généraliste",
+    "specialty_acceptable": false,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Infection virale ou bactérienne subaiguë",
+      "Paludisme (à considérer selon contexte local)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.38,
+    "error": ""
+  },
+  {
+    "case_id": "B06-246",
+    "domain": "Schistosomiase",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecine tropicale",
+      "Infectiologie"
+    ],
+    "actual_specialty": "Urologie",
+    "specialty_acceptable": false,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Infection urinaire ou cystite hémorragique",
+      "Calcul urinaire (lithiasique)"
+    ],
+    "contradictions": [
+      "Aucun signe de gravité aigu n’est décrit dans l’histoire fournie"
+    ],
+    "elapsed_seconds": 5.322,
+    "error": ""
+  },
+  {
+    "case_id": "B06-258",
+    "domain": "Amibiase",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecine tropicale",
+      "Gastro-entérologie"
+    ],
+    "actual_specialty": "Gastro-entérologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "Colite infectieuse (bactérienne ou parasitaire)",
+      "Dysenterie amibienne"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.765,
+    "error": ""
+  },
+  {
+    "case_id": "B06-270",
+    "domain": "Zoonoses",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecine tropicale"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Tableau léger/stable sans danger sign.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "infection zoonotique non spécifique (ex : fièvre liée à contact animal)",
+      "infection virale ou bactérienne communautaire"
+    ],
+    "contradictions": [
+      "Aucun signe de gravité rapporté dans la description fournie."
+    ],
+    "elapsed_seconds": 5.933,
+    "error": ""
+  },
+  {
+    "case_id": "B06-278",
+    "domain": "Médecine en zone minière",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecin généraliste",
+      "Pneumologie",
+      "Médecine du travail"
+    ],
+    "actual_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "exposition professionnelle toxique (poussières/minéraux) avec bronchite chronique ou irritation respiratoire",
+      "intoxication chronique aux métaux lourds (plomb, mercure, arsenic)"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 5.598,
+    "error": ""
+  },
+  {
+    "case_id": "B06-279",
+    "domain": "Médecine en zone minière",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecin généraliste",
+      "Pneumologie",
+      "Médecine du travail"
+    ],
+    "actual_specialty": "Médecine de travail",
+    "specialty_acceptable": false,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Médecine de travail",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "exposition professionnelle irritative ou toxique mineure (inhalation de poussières/fumées)",
+      "intoxication aiguë légère par poussières métalliques ou hydrocarbures (transitoire)"
+    ],
+    "contradictions": [
+      "aucun signe de gravité décrit dans le récit fourni"
+    ],
+    "elapsed_seconds": 5.521,
+    "error": ""
+  },
+  {
+    "case_id": "B06-284",
+    "domain": "Santé en zone forestière",
+    "expected_priority": "P3",
+    "acceptable_priorities": [
+      "P3"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecin généraliste",
+      "Médecine tropicale",
+      "Infectiologie"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": true,
+    "clinical_rationale": "Problème persistant stable nécessitant consultation programmée.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Fièvre tropicale d'origine infectieuse (ex : paludisme, fièvre typhoïde, fièvre à vecteur)",
+      "Infection zoonotique liée à exposition forestière (ex : arbovirose, fièvre hémorragique à considérer selon contexte)"
+    ],
+    "contradictions": [
+      "Aucun signe d'alarme rapporté dans les données fournies"
+    ],
+    "elapsed_seconds": 5.93,
+    "error": ""
+  },
+  {
+    "case_id": "B06-285",
+    "domain": "Santé en zone forestière",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": 2,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Médecin généraliste",
+      "Médecine tropicale",
+      "Infectiologie"
+    ],
+    "actual_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "Fièvre d’origine infectieuse après exposition sylvatique (ex : arbovirose, fièvre bactérienne)",
+      "Infection virale intercurrente non spécifique"
+    ],
+    "contradictions": [
+      "Aucun signe d’alerte décrit dans le récit (pas de détresse respiratoire, pas de perte de conscience, pas de saignement)."
+    ],
+    "elapsed_seconds": 6.775,
+    "error": ""
+  },
+  {
+    "case_id": "B06-294",
+    "domain": "Plaies et infections cutanées",
+    "expected_priority": "P4",
+    "acceptable_priorities": [
+      "P3",
+      "P4"
+    ],
+    "actual_priority": "P3",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": true,
+    "priority_delta": 1,
+    "dangerous_undertriage": false,
+    "accepted_specialties": [
+      "Dermatologie",
+      "Chirurgie générale"
+    ],
+    "actual_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseils / autosurveillance",
+    "actual_orientation": "Consultation en Dermatologie",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Symptôme bénin en amélioration, recours si persistance/aggravation.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": false,
+    "possible_conditions": [
+      "infection cutanée superficielle (cellulite/impétigo localisé)",
+      "inflammation bactérienne de plaie avec cicatrisation en cours"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.654,
+    "error": ""
+  }
+]

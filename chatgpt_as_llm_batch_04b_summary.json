@@ -1,0 +1,13 @@
+{
+  "n_cases": 150,
+  "distribution": {
+    "P1": 50,
+    "P2": 40,
+    "P3": 35,
+    "P4": 25
+  },
+  "priority_accuracy": 1.0,
+  "specialty_acceptability": 1.0,
+  "orientation_accuracy": 1.0,
+  "warning": "Baseline de calibration non indépendante."
+}
