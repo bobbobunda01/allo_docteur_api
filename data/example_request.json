@@ -1,0 +1,38 @@
+{
+  "complaint_text": "J’ai de la fièvre, mal à la tête et des courbatures.",
+  "duration": "Moins de 24 heures",
+  "associated_signs": [
+    "Fièvre",
+    "Maux de tête"
+  ],
+  "prior_consultation": "Non",
+  "attachment_present": false,
+  "medical_history": [
+    "Aucun antécédent"
+  ],
+  "patient": {
+    "date_of_birth": "12/03/1988",
+    "sex": "female",
+    "pregnant": false,
+    "province": "Kinshasa"
+  },
+  "severity_answers": {
+    "severe_breathing": false,
+    "chest_pressure": false,
+    "severe_diarrhea_unable_to_drink": false,
+    "severe_dehydration": false,
+    "stroke_signs": false,
+    "loss_of_consciousness": false,
+    "sudden_confusion": false,
+    "uncontrollable_bleeding": false,
+    "board_like_abdomen": false,
+    "fever_with_neck_stiffness": false,
+    "seizures": false,
+    "rash_with_fever": false,
+    "poisoning": false,
+    "severe_burn": false,
+    "suicidal_or_extreme_psy": false,
+    "open_fracture_or_major_accident": false,
+    "head_trauma": false
+  }
+}

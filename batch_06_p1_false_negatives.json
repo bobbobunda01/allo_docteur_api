@@ -1,0 +1,35 @@
+[
+  {
+    "case_id": "B06-088",
+    "domain": "Médecine d’urgence",
+    "expected_priority": "P1",
+    "acceptable_priorities": [
+      "P1"
+    ],
+    "actual_priority": "P2",
+    "strict_priority_correct": false,
+    "clinically_acceptable_priority": false,
+    "priority_delta": -1,
+    "dangerous_undertriage": true,
+    "accepted_specialties": [
+      "Médecine d’urgence"
+    ],
+    "actual_specialty": "Médecine d’urgence",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "actual_orientation": "Consultation médicale prioritaire",
+    "orientation_level_correct": false,
+    "clinical_rationale": "Tableau aigu à potentiel critique.",
+    "llm_used": true,
+    "mode": "llm",
+    "severity_override": false,
+    "human_review": true,
+    "possible_conditions": [
+      "syndrome infectieux aigu (grippe, sepsis débutant)",
+      "hypoglycémie ou trouble métabolique aigu"
+    ],
+    "contradictions": [],
+    "elapsed_seconds": 4.229,
+    "error": ""
+  }
+]

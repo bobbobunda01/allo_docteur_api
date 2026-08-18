@@ -1,0 +1,2512 @@
+[
+  {
+    "case_id": "B04B-001",
+    "domain": "Neurologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-002",
+    "domain": "Neurologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-003",
+    "domain": "Cardiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-004",
+    "domain": "Cardiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-005",
+    "domain": "Pneumologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-006",
+    "domain": "Pneumologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-007",
+    "domain": "Toxicologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Toxicologie",
+      "Pédiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Toxicologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-008",
+    "domain": "Toxicologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Toxicologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Toxicologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-009",
+    "domain": "Psychiatrie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Psychiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Psychiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-010",
+    "domain": "Psychiatrie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Psychiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Psychiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-011",
+    "domain": "Obstétrique",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-012",
+    "domain": "Obstétrique",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-013",
+    "domain": "Obstétrique",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-014",
+    "domain": "Pédiatrie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-015",
+    "domain": "Pédiatrie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie",
+      "Pneumologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-016",
+    "domain": "Pédiatrie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-017",
+    "domain": "Néonatologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-018",
+    "domain": "ORL",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Pédiatrie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-019",
+    "domain": "ORL",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Dentisterie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-020",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie",
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-021",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-022",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gastro-entérologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gastro-entérologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-023",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gastro-entérologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gastro-entérologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-024",
+    "domain": "Chirurgie générale",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie générale",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Chirurgie générale",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-025",
+    "domain": "Chirurgie générale",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie générale",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Chirurgie générale",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-026",
+    "domain": "Traumatologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie orthopédique",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Chirurgie orthopédique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-027",
+    "domain": "Neurochirurgie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurochirurgie",
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Neurochirurgie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-028",
+    "domain": "Allergologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Allergologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Allergologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-029",
+    "domain": "Brûlures",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie plastique et reconstructive",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Chirurgie plastique et reconstructive",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-030",
+    "domain": "Diabétologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Diabétologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Diabétologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-031",
+    "domain": "Néphrologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Néphrologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Néphrologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-032",
+    "domain": "Chirurgie vasculaire",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie vasculaire",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Chirurgie vasculaire",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-033",
+    "domain": "Infectiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-034",
+    "domain": "Infectiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-035",
+    "domain": "Infectiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Gastro-entérologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-036",
+    "domain": "Infectiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-037",
+    "domain": "Hématologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Hématologie",
+      "Pneumologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Hématologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-038",
+    "domain": "Urologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Urologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Urologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-039",
+    "domain": "Dentisterie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dentisterie",
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Dentisterie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-040",
+    "domain": "Cardiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Chirurgie vasculaire",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-041",
+    "domain": "Neurologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-042",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gastro-entérologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gastro-entérologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-043",
+    "domain": "Pédiatrie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie",
+      "Chirurgie plastique et reconstructive",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-044",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-045",
+    "domain": "Infectiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-046",
+    "domain": "Traumatologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie orthopédique",
+      "Chirurgie générale",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Chirurgie orthopédique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-047",
+    "domain": "Neurologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-048",
+    "domain": "Cardiologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-049",
+    "domain": "Pneumologie",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Cardiologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-050",
+    "domain": "Obstétrique",
+    "gold_priority": "P1",
+    "chatgpt_priority": "P1",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique",
+      "Neurologie",
+      "Médecine d’urgence"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Urgences / évaluation immédiate",
+    "chatgpt_orientation": "Urgences / évaluation immédiate",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-051",
+    "domain": "Pneumologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-052",
+    "domain": "Infectiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-053",
+    "domain": "Chirurgie générale",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie générale",
+      "Gastro-entérologie"
+    ],
+    "chatgpt_specialty": "Chirurgie générale",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-054",
+    "domain": "Cardiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-055",
+    "domain": "Neurologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-056",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-057",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-058",
+    "domain": "Pédiatrie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-059",
+    "domain": "Diabétologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Diabétologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Diabétologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-060",
+    "domain": "Urologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Urologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Urologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-061",
+    "domain": "Pneumologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-062",
+    "domain": "Infectiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-063",
+    "domain": "Chirurgie générale",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie générale",
+      "Gastro-entérologie"
+    ],
+    "chatgpt_specialty": "Chirurgie générale",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-064",
+    "domain": "Cardiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-065",
+    "domain": "Neurologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-066",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-067",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-068",
+    "domain": "Pédiatrie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-069",
+    "domain": "Diabétologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Diabétologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Diabétologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-070",
+    "domain": "Urologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Urologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Urologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-071",
+    "domain": "Pneumologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-072",
+    "domain": "Infectiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-073",
+    "domain": "Chirurgie générale",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie générale",
+      "Gastro-entérologie"
+    ],
+    "chatgpt_specialty": "Chirurgie générale",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-074",
+    "domain": "Cardiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-075",
+    "domain": "Neurologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-076",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-077",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-078",
+    "domain": "Pédiatrie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-079",
+    "domain": "Diabétologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Diabétologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Diabétologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-080",
+    "domain": "Urologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Urologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Urologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-081",
+    "domain": "Pneumologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pneumologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Pneumologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-082",
+    "domain": "Infectiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Infectiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Infectiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-083",
+    "domain": "Chirurgie générale",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Chirurgie générale",
+      "Gastro-entérologie"
+    ],
+    "chatgpt_specialty": "Chirurgie générale",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-084",
+    "domain": "Cardiologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Cardiologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Cardiologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-085",
+    "domain": "Neurologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-086",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-087",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-088",
+    "domain": "Pédiatrie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Pédiatrie"
+    ],
+    "chatgpt_specialty": "Pédiatrie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-089",
+    "domain": "Diabétologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Diabétologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Diabétologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-090",
+    "domain": "Urologie",
+    "gold_priority": "P2",
+    "chatgpt_priority": "P2",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Urologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Urologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation prioritaire / rapide",
+    "chatgpt_orientation": "Consultation prioritaire / rapide",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-091",
+    "domain": "Dentisterie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dentisterie"
+    ],
+    "chatgpt_specialty": "Dentisterie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-092",
+    "domain": "Dermatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-093",
+    "domain": "ORL",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-094",
+    "domain": "Rhumatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Rhumatologie"
+    ],
+    "chatgpt_specialty": "Rhumatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-095",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-096",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-097",
+    "domain": "Neurologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-098",
+    "domain": "Dentisterie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dentisterie"
+    ],
+    "chatgpt_specialty": "Dentisterie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-099",
+    "domain": "Dermatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-100",
+    "domain": "ORL",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-101",
+    "domain": "Rhumatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Rhumatologie"
+    ],
+    "chatgpt_specialty": "Rhumatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-102",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-103",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-104",
+    "domain": "Neurologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-105",
+    "domain": "Dentisterie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dentisterie"
+    ],
+    "chatgpt_specialty": "Dentisterie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-106",
+    "domain": "Dermatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-107",
+    "domain": "ORL",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-108",
+    "domain": "Rhumatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Rhumatologie"
+    ],
+    "chatgpt_specialty": "Rhumatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-109",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-110",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-111",
+    "domain": "Neurologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-112",
+    "domain": "Dentisterie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dentisterie"
+    ],
+    "chatgpt_specialty": "Dentisterie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-113",
+    "domain": "Dermatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-114",
+    "domain": "ORL",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-115",
+    "domain": "Rhumatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Rhumatologie"
+    ],
+    "chatgpt_specialty": "Rhumatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-116",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-117",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-118",
+    "domain": "Neurologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-119",
+    "domain": "Dentisterie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dentisterie"
+    ],
+    "chatgpt_specialty": "Dentisterie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-120",
+    "domain": "Dermatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-121",
+    "domain": "ORL",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-122",
+    "domain": "Rhumatologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Rhumatologie"
+    ],
+    "chatgpt_specialty": "Rhumatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-123",
+    "domain": "Gynécologie-obstétrique",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Gynécologie-obstétrique"
+    ],
+    "chatgpt_specialty": "Gynécologie-obstétrique",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-124",
+    "domain": "Ophtalmologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Ophtalmologie"
+    ],
+    "chatgpt_specialty": "Ophtalmologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-125",
+    "domain": "Neurologie",
+    "gold_priority": "P3",
+    "chatgpt_priority": "P3",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Neurologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Neurologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Consultation non urgente / programmée",
+    "chatgpt_orientation": "Consultation non urgente / programmée",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-126",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-127",
+    "domain": "Dermatologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-128",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-129",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-130",
+    "domain": "ORL",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-131",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-132",
+    "domain": "Dermatologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-133",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-134",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-135",
+    "domain": "ORL",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-136",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-137",
+    "domain": "Dermatologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-138",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-139",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-140",
+    "domain": "ORL",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-141",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-142",
+    "domain": "Dermatologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-143",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-144",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-145",
+    "domain": "ORL",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-146",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-147",
+    "domain": "Dermatologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Dermatologie",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Dermatologie",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-148",
+    "domain": "Médecin généraliste",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-149",
+    "domain": "Gastro-entérologie",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Médecin généraliste",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  },
+  {
+    "case_id": "B04B-150",
+    "domain": "ORL",
+    "gold_priority": "P4",
+    "chatgpt_priority": "P4",
+    "priority_correct": true,
+    "accepted_specialties": [
+      "Oto-rhino-laryngologie (ORL)",
+      "Médecin généraliste"
+    ],
+    "chatgpt_specialty": "Oto-rhino-laryngologie (ORL)",
+    "specialty_acceptable": true,
+    "expected_orientation": "Conseil / autosurveillance",
+    "chatgpt_orientation": "Conseil / autosurveillance",
+    "orientation_correct": true,
+    "note": "Baseline de calibration ChatGPT-as-LLM; non indépendante du Gold Standard."
+  }
+]
